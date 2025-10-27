@@ -41,8 +41,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 🗓️ **Start Date:** October 20, 2025  
 🎯 **Goal:** Solve 1-2 LeetCode problems daily  
 💯 **End Date:** January 28, 2026 (100 days later)  
-📊 **Tracking:** [Check out my recent LinkedIn activity](https://www.linkedin.com/in/venkateswaran-a-g-a2a18a339/recent-activity/all/?trk=public_profile-settings_see-all-posts)
- + Weekly Summaries in Repo  
+📊 **Tracking:** [Check out my recent LinkedIn activity](https://www.linkedin.com/in/venkateswaran-a-g-a2a18a339/recent-activity/all/?trk=public_profile-settings_see-all-posts) + Weekly Summaries in Repo  
 
 ---
 
