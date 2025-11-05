@@ -33,7 +33,16 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 6 | Remove Duplicates from Sorted Array | Two-pointer Overwrite | Progress means overwriting the old with what truly matters. |
 | 6 | Majority Element | Sorting-based Majority | The truth sits right in the middle — if you’re willing to sort through the mess. |
 | 7 | Remove Duplicates from Sorted Array II | Two-pointer Technique | Even repetition deserves balance — control, not chaos. |
-
+| 8 | Rotate Array | Slicing Technique | Python slicing is ridiculously powerful once you visualize array movement. |
+| 9 | Length of Last Word | String manipulation & iteration | “Easy” isn’t always simple – clean logic trumps clever tricks; pace yourself for real efficiency. |
+| 10 | Index of First Occurrence in String | String search (.find()) | Reinventing the wheel isn’t smart – knowing your tools accelerates progress. |
+| 11 | Valid Palindrome | Cleaning & reversing strings | Cleaning makes logic clearer — slow down and tidy up for robust solutions. |
+| 12 | Valid Parentheses | Stack & dictionary matching | Order—both in code and life—ensures stability; pairs make clean exits. |
+| 13 | Palindrome Number | Integer-to-string conversion | Changing formats clears confusion; symmetry emerges with simple transformations. |
+| 14 | Plus One | Array-to-string/integer roundtrip | Sometimes the best way is the most direct—even if it retraces kindergarten math. |
+| 15 | Factorial Trailing Zeroes | Division & counting factors | Optimization means knowing where zeros hide; divide, count, and spot what matters. |
+| 16 | Sqrt(x) | Math library, code clarity | Less is more: embrace built-in solutions instead of overcomplicating. Simplicity often wins over brute force. |
+| 17 | Pow(x, n) | Math power, toolkit trust | Elevation, trust reliable tools for power moves—delegation can be the smartest path to perfect performance. |
 ---
 
 ## 📈 Progress Tracking
@@ -41,7 +50,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 🗓️ **Start Date:** October 20, 2025  
 🎯 **Goal:** Solve 1-2 LeetCode problems daily  
 💯 **End Date:** January 28, 2026 (100 days later)  
-📊 **Tracking:** [Check out my recent LinkedIn activity](https://www.linkedin.com/in/venkateswaran-a-g-a2a18a339/recent-activity/all/?trk=public_profile-settings_see-all-posts) + Weekly Summaries in Repo  
+📊 **LinkedIn:** [Check out my recent LinkedIn activity](https://www.linkedin.com/in/venkateswaran-a-g-a2a18a339/recent-activity/all/?trk=public_profile-settings_see-all-posts) + Weekly Summaries in Repo  
 
 ---
 
