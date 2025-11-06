@@ -43,6 +43,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 15 | Factorial Trailing Zeroes | Division & counting factors | Optimization means knowing where zeros hide; divide, count, and spot what matters. |
 | 16 | Sqrt(x) | Math library, code clarity | Less is more: embrace built-in solutions instead of overcomplicating. Simplicity often wins over brute force. |
 | 17 | Pow(x, n) | Math power, toolkit trust | Elevation, trust reliable tools for power moves—delegation can be the smartest path to perfect performance. |
+| 18 | Is Subsequence | Two-pointer technique | Turns out, life—and coding—is all about moving your pointers forward and hoping they eventually line up. |
 ---
 
 ## 📈 Progress Tracking
