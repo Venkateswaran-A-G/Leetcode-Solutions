@@ -44,6 +44,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 16 | Sqrt(x) | Math library, code clarity | Less is more: embrace built-in solutions instead of overcomplicating. Simplicity often wins over brute force. |
 | 17 | Pow(x, n) | Math power, toolkit trust | Elevation, trust reliable tools for power moves—delegation can be the smartest path to perfect performance. |
 | 18 | Is Subsequence | Two-pointer technique | Turns out, life—and coding—is all about moving your pointers forward and hoping they eventually line up. |
+| 19 | Two Sum II | Two-pointer technique | Sometimes, life’s trickiest sums just need a little teamwork. |
 ---
 
 ## 📈 Progress Tracking
