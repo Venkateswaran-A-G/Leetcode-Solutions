@@ -45,6 +45,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 17 | Pow(x, n) | Math power, toolkit trust | Elevation, trust reliable tools for power moves—delegation can be the smartest path to perfect performance. |
 | 18 | Is Subsequence | Two-pointer technique | Turns out, life—and coding—is all about moving your pointers forward and hoping they eventually line up. |
 | 19 | Two Sum II | Two-pointer technique | Sometimes, life’s trickiest sums just need a little teamwork. |
+| 20 | Jump Game | Greedy Algorithm |  Success is all about knowing your current limits—and then pushing just a little further every step. |
 ---
 
 ## 📈 Progress Tracking
