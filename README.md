@@ -46,6 +46,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 18 | Is Subsequence | Two-pointer technique | Turns out, life—and coding—is all about moving your pointers forward and hoping they eventually line up. |
 | 19 | Two Sum II | Two-pointer technique | Sometimes, life’s trickiest sums just need a little teamwork. |
 | 20 | Jump Game | Greedy Algorithm |  Success is all about knowing your current limits—and then pushing just a little further every step. |
+| 21 | Roman to Integer | HashMap | Algorithms are as timeless as the classics. |
 ---
 
 ## 📈 Progress Tracking
