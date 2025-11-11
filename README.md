@@ -48,6 +48,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 20 | Jump Game | Greedy Algorithm |  Success is all about knowing your current limits—and then pushing just a little further every step. |
 | 21 | Roman to Integer | HashMap | Algorithms are as timeless as the classics. |
 | 22 | Longest Common Prefix | Sorting | Even the biggest datasets have something they all share—sometimes it’s just a single letter, sometimes a lot more. |
+| 23 | Jump Game II | Greedy Algorithm |  In code and in life, progress is about working smarter—making every leap count! |
 ---
 
 ## 📈 Progress Tracking
