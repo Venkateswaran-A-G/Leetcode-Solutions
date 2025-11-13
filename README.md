@@ -50,6 +50,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 22 | Longest Common Prefix | Sorting | Even the biggest datasets have something they all share—sometimes it’s just a single letter, sometimes a lot more. |
 | 23 | Jump Game II | Greedy Algorithm |  In code and in life, progress is about working smarter—making every leap count! |
 | 24 | Best Time to Buy and Sell Stock II | Greedy Algorithm | Grab every opportunity for profit by summing all upward price swings—don’t wait for one big sale, catch every small gain along the way. |
+| 25 | Reverse Words in a String | Split and Join Methods | Sometimes, the simplest code can completely change your perspective—on strings and on problem solving. |
 ---
 
 ## 📈 Progress Tracking
