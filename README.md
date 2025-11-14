@@ -51,6 +51,10 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 23 | Jump Game II | Greedy Algorithm |  In code and in life, progress is about working smarter—making every leap count! |
 | 24 | Best Time to Buy and Sell Stock II | Greedy Algorithm | Grab every opportunity for profit by summing all upward price swings—don’t wait for one big sale, catch every small gain along the way. |
 | 25 | Reverse Words in a String | Split and Join Methods | Sometimes, the simplest code can completely change your perspective—on strings and on problem solving. |
+| 26 | H-Index | Counting Sort | Sorting and careful counting can turn a seemingly complex metric into a straightforward implementation—sometimes, organizing your data is all you need to find clarity. |
+| 26 | Max Consecutive Ones | Array Traversal | Tracking streaks is about persistence—reset when needed, but always remember your highest count. The biggest wins come from recognizing and holding onto your longest runs | 
+| 26 | Shuffle the Array | Array Traversal | Simplicity is powerful—a clever use of array multiplication can save lines of code and mental energy. Sometimes, the best solution is hiding in plain sight. |
+| 26 | Concatenation of Array | Concat Operator | Divide and conquer isn’t just for big data! Breaking a problem into two neat parts and then interleaving them leads to elegant and efficient solutions—perfect for both arrays and everyday challenges. |
 ---
 
 ## 📈 Progress Tracking
