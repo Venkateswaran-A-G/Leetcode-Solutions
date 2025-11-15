@@ -55,6 +55,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 26 | Max Consecutive Ones | Array Traversal | Tracking streaks is about persistence—reset when needed, but always remember your highest count. The biggest wins come from recognizing and holding onto your longest runs | 
 | 26 | Shuffle the Array | Array Traversal | Simplicity is powerful—a clever use of array multiplication can save lines of code and mental energy. Sometimes, the best solution is hiding in plain sight. |
 | 26 | Concatenation of Array | Concat Operator | Divide and conquer isn’t just for big data! Breaking a problem into two neat parts and then interleaving them leads to elegant and efficient solutions—perfect for both arrays and everyday challenges. |
+| 27 | Set Mismatch | Sets Duplicates | Every array, like every day, has its quirks—find the pattern, trust your tracking, and double-check your math. |
 ---
 
 ## 📈 Progress Tracking
