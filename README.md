@@ -56,6 +56,8 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 26 | Shuffle the Array | Array Traversal | Simplicity is powerful—a clever use of array multiplication can save lines of code and mental energy. Sometimes, the best solution is hiding in plain sight. |
 | 26 | Concatenation of Array | Concat Operator | Divide and conquer isn’t just for big data! Breaking a problem into two neat parts and then interleaving them leads to elegant and efficient solutions—perfect for both arrays and everyday challenges. |
 | 27 | Set Mismatch | Sets Duplicates | Every array, like every day, has its quirks—find the pattern, trust your tracking, and double-check your math. |
+| 28 | Final Value of Variable After Performing Operations | Strings | Sometimes, tiny checks in a loop are all you need to automate decisions—no need for heavy logic! |
+| 28 | Score of a String | ord() Function | The story is told not by values, but by how things change between steps |
 ---
 
 ## 📈 Progress Tracking
