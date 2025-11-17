@@ -58,6 +58,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 27 | Set Mismatch | Sets Duplicates | Every array, like every day, has its quirks—find the pattern, trust your tracking, and double-check your math. |
 | 28 | Final Value of Variable After Performing Operations | Strings | Sometimes, tiny checks in a loop are all you need to automate decisions—no need for heavy logic! |
 | 28 | Score of a String | ord() Function | The story is told not by values, but by how things change between steps |
+| 29 | Find Words Containing Character | Search using in operator | A simple scan and quick check can turn boring data into powerful answers. In life and code, sometimes the best approach is: look, check, and record! |
 ---
 
 ## 📈 Progress Tracking
