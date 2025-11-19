@@ -60,6 +60,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 28 | Score of a String | ord() Function | The story is told not by values, but by how things change between steps |
 | 29 | Find Words Containing Character | Search using in operator | A simple scan and quick check can turn boring data into powerful answers. In life and code, sometimes the best approach is: look, check, and record! |
 | 30 | Longest Substring Without Repeating Characters | Sliding Windows | Consistency multiplies learning. If you stick to your routine, even basic daily progress adds up to real skill and confidence. |
+| 31 | Check if Two String Arrays are Equivalent | Join Method | Sometimes the best way to understand complex, broken-up data is to put it all together and look at the big picture! |
 ---
 
 ## 📈 Progress Tracking
