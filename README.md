@@ -62,6 +62,7 @@ Every solution here is written with clarity and understanding — not shortcuts.
 | 30 | Longest Substring Without Repeating Characters | Sliding Windows | Consistency multiplies learning. If you stick to your routine, even basic daily progress adds up to real skill and confidence. |
 | 31 | Check if Two String Arrays are Equivalent | Join Method | Sometimes the best way to understand complex, broken-up data is to put it all together and look at the big picture! |
 | 32 | Add Two Numbers | Linked Lists | Sometimes, breaking a big math problem into tiny steps (nodes!) makes the logic easier and the solution cleaner. | 
+| 33 | Reverse Integer | Type Conversion | Sometimes the trick isn’t in the reversal, but in the checks—always be careful when transforming data, especially if the rules might break! | 
 ---
 
 ## 📈 Progress Tracking
