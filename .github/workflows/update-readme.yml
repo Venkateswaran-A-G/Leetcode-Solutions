@@ -1,0 +1,32 @@
+name: Auto Update README Log
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run README Script
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update README daily log" && git push)
