@@ -1,3 +1,12 @@
+# Date: 06-10-2026
+# Problem Number: 412
+# Problem Title: Fizz Buzz
+# LeetCode Link: https://leetcode.com/problems/fizz-buzz/description/
+# Difficulty: Easy
+# Topic: Math, String, Simulation
+# Time Complexity: O(N)
+# Space Complexity: O(N)
+
 class Solution:
     def fizzBuzz(self, n: int) -> list[str]:
         ans = []
