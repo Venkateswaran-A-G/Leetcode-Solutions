@@ -1,6 +1,8 @@
 import os
 import re
 import glob
+from datetime import datetime
+from urllib.parse import quote
 
 README_PATH = "README.md"
 REPO_URL = "https://github.com/Venkateswaran-A-G/Leetcode-Solutions/blob/main"
@@ -28,10 +30,17 @@ def parse_python_file(file_path):
         else:
             return None  # Skip files without complete header metadata
 
-    # Standardize relative URL for repository links
+    # URL-encode file paths to fix spaces breaking Markdown links
     rel_path = os.path.relpath(file_path, start=".").replace("\\", "/")
-    metadata["code_url"] = f"{REPO_URL}/{rel_path}"
+    encoded_path = quote(rel_path)
+    metadata["code_url"] = f"{REPO_URL}/{encoded_path}"
     return metadata
+
+def parse_date(date_str):
+    try:
+        return datetime.strptime(date_str, "%d-%m-%Y")
+    except ValueError:
+        return datetime.min
 
 def main():
     py_files = sorted(glob.glob("**/*.py", recursive=True))
@@ -44,8 +53,8 @@ def main():
         if meta:
             entries.append(meta)
 
-    # Sort entries numerically by Problem Number
-    entries.sort(key=lambda x: int(x["num"]) if x["num"].isdigit() else 9999)
+    # Sort entries chronologically by Date (earliest first), then by Problem Number
+    entries.sort(key=lambda x: (parse_date(x["date"]), int(x["num"]) if x["num"].isdigit() else 9999))
 
     # Read base README content up to table section
     if os.path.exists(README_PATH):
