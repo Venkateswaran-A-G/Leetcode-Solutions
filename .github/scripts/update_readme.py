@@ -1,6 +1,5 @@
 import os
 import re
-import glob
 from datetime import datetime
 from urllib.parse import quote
 
@@ -8,8 +7,11 @@ README_PATH = "README.md"
 REPO_URL = "https://github.com/Venkateswaran-A-G/Leetcode-Solutions/blob/main"
 
 def parse_python_file(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except Exception:
+        return None
 
     keys = {
         "date": r"# Date:\s*(.*)",
@@ -42,13 +44,23 @@ def parse_date(date_str):
     except ValueError:
         return datetime.min
 
+def find_all_py_files():
+    py_files = []
+    for root, dirs, files in os.walk("."):
+        # Ignore .github and hidden folders
+        if ".github" in root or "/." in root or "\\." in root:
+            continue
+        for file in files:
+            if file.endswith(".py"):
+                full_path = os.path.join(root, file)
+                py_files.append(full_path)
+    return py_files
+
 def main():
-    py_files = sorted(glob.glob("**/*.py", recursive=True))
+    py_files = find_all_py_files()
     entries = []
 
     for file_path in py_files:
-        if file_path.startswith(".github"):
-            continue
         meta = parse_python_file(file_path)
         if meta:
             entries.append(meta)
