@@ -1,8 +1,9 @@
 # Date: 09-10-2026
 # Problem Number: 347
-# Problem Title: Top K Frequent Elements
-# LeetCode Link: https://leetcode.com/problems/top-k-frequent-elements/
-# Topic: Hash Map,Min Heap
+# Problem Title: Top
+# LeetCode Link: https://leetcode.com/problems/top-k-frequent-elements/description/
+# Difficulty: Medium
+# Topic: Hashmap, Min Heap
 # Time Complexity: O(N log K)
 # Space Complexity: O(M+N)
 
@@ -25,6 +26,3 @@ class Solution:
         for i in min_heap:
             result.append(i[1])
         return result
-        
-            
-
