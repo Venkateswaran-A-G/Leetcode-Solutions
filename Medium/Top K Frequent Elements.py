@@ -21,10 +21,10 @@ class Solution:
             hp(min_heap,[value,key])
             if len(min_heap)>k:
                 hpop(min_heap)
-        res = []
+        result = []
         for i in min_heap:
-            res.append(i[1])
-        return res
+            result.append(i[1])
+        return result
         
             
 
